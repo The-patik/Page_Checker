@@ -1,0 +1,6 @@
+Main-Class: cz.checker.main.Main
+Manifest-Version: 1.0
+Built-by: Patrik
+Build-jdk: 17.0
+Created-By: Apache Maven
+Archiver-Version: Plexus Archiver
